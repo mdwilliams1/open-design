@@ -1,0 +1,19 @@
+{
+  "candidateId": "62412e68-8fba-406f-9433-fa962bc8a848",
+  "projectId": "46a4346f-f8d1-4804-aef0-e1c69b9bd4ae",
+  "runId": "c9f15531-7b05-463a-85e2-496c201c4073",
+  "conversationId": "7c80f21a-706c-40a2-b97d-be026dae6274",
+  "provenance": {
+    "summary": "Detected from _ref/r1/_ds/design-system-e3fca01d-4b54-4932-a100-1d57bdd1876c/readme.md after a successful run.",
+    "detectedAt": 1795048861272
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "_ref/r1/_ds/design-system-e3fca01d-4b54-4932-a100-1d57bdd1876c/readme.md",
+      "label": "_ref/r1/_ds/design-system-e3fca01d-4b54-4932-a100-1d57bdd1876c/readme.md",
+      "size": 8803,
+      "copied": true
+    }
+  ]
+}
